@@ -1,0 +1,26 @@
+{
+    "farmers": [
+    {
+      "id": 1,
+      "title": "Crop Insurance Scheme",
+      "description": "Provides insurance coverage for crop failure due to natural calamities."
+    },
+    {
+      "id": 2,
+      "title": "Another Farmer Scheme",
+      "description": "Description of another scheme for farmers."
+    }
+  ],
+  "labor": [
+    {
+      "id": 1,
+      "title": "Unemployment Support",
+      "description": "Financial support for workers during periods of unemployment."
+    },
+    {
+      "id": 2,
+      "title": "Another Labor Scheme",
+      "description": "Description of another scheme for labor."
+    }
+  ]
+}
